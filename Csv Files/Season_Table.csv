@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Attendance,Goalkeeper,Top Scorer,Goals
+1,Barcelona   https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/345px-FC_Barcelona_%28crest%29.svg.png,38,28,4,6,102,39,63,88,2.32,91.5,41.9,49.5,1.3,45953,Iñaki Peña,Robert Lewandowski ,27
+2,Real Madrid   https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/255px-Real_Madrid_CF.svg.png,38,26,6,6,78,38,40,84,2.21,75.3,42.8,32.5,0.86,69807,Thibaut Courtois,Kylian Mbappé ,31
+3,Atlético Madrid   https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png,38,22,10,6,68,30,38,76,2,64.6,33.4,31.2,0.82,60883,Jan Oblak,Alexander Sørloth ,20
+4,Athletic Club   https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/270px-Club_Athletic_Bilbao_logo.svg.png,38,19,13,6,54,29,25,70,1.84,53,37.8,15.2,0.4,48420,Unai Simón,Oihan Sancet ,15
+5,Villarreal   https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/278px-Villarreal_CF_logo-en.svg.png,38,20,10,8,71,51,20,70,1.84,64.8,44.4,20.4,0.54,18266,Diego Conde,Ayoze Pérez ,19
+6,Betis   https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/345px-Real_betis_logo.svg.png,38,16,12,10,57,50,7,60,1.58,54.7,50.6,4.1,0.11,51542,Adrián,Isco ,9
+7,Celta Vigo   https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/225px-RC_Celta_de_Vigo_logo.svg.png,38,16,7,15,59,57,2,55,1.45,54.2,43.4,10.9,0.29,21504,Vicente Guaita,Borja Iglesias ,11
+8,Rayo Vallecano   https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/315px-Rayo_Vallecano_logo.svg.png,38,13,13,12,41,45,-4,52,1.37,45.4,49,-3.5,-0.09,12908,Augusto Batalla,Jorge de Frutos ,6
+9,Osasuna   https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/330px-CA_Osasuna_2024_crest.svg.png,38,12,16,10,48,52,-4,52,1.37,44,53.7,-9.7,-0.25,20476,Sergio Herrera,Ante Budimir ,21
+10,Mallorca   https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/255px-Rcd_mallorca.svg.png,38,13,9,16,35,44,-9,48,1.26,38.8,46.8,-8.1,-0.21,18502,Dominik Greif,"Cyle Larin, Vedat Muriqi ",7
+11,Real Sociedad   https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/278px-Real_Sociedad_logo.svg.png,38,13,7,18,35,46,-11,46,1.21,42.5,43.9,-1.5,-0.04,29877,Álex Remiro,Mikel Oyarzabal ,9
+12,Valencia   https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/285px-Valenciacf.svg.png,38,11,13,14,44,54,-10,46,1.21,43.3,51.9,-8.6,-0.23,43042,Giorgi Mamardashvili,Hugo Duro ,11
+13,Getafe   https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/300px-Getafe_logo.svg.png,38,11,9,18,34,39,-5,42,1.11,36.8,46.2,-9.4,-0.25,11469,David Soria,Mauro Arambarri ,10
+14,Espanyol   https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/320px-RCD_Espanyol_crest.svg.png,38,11,9,18,40,51,-11,42,1.11,34.4,53.8,-19.4,-0.51,25640,Joan García,Javi Puado ,12
+15,Alavés   https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/315px-Deportivo_Alaves_logo_%282020%29.svg.png,38,10,12,16,38,48,-10,42,1.11,42.8,47,-4.2,-0.11,17318,Antonio Sivera,Kiké ,13
+16,Girona   https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/300px-Girona_FC_Logo.svg.png,38,11,8,19,44,60,-16,41,1.08,42.5,50.4,-8,-0.21,11657,Paulo Gazzaniga,Cristhian Stuani ,11
+17,Sevilla   https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/255px-Sevilla_FC_logo.svg.png,38,10,11,17,42,55,-13,41,1.08,42.7,47.4,-4.7,-0.12,35619,Ørjan Nyland,Dodi Lukebakio ,11
+18,Leganés    https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/300px-Club_Deportivo_Legan%C3%A9s_logo.svg.png,38,9,13,16,39,56,-17,40,1.05,36,59.4,-23.4,-0.62,11135,Marko Dmitrović,Dani Raba ,8
+19,Las Palmas   https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/195px-UD_Las_Palmas_logo.svg.png,38,8,8,22,40,61,-21,32,0.84,36.3,66.8,-30.5,-0.8,23010,Jasper Cillessen,Fábio Silva ,10
+20,Valladolid    https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Real_Valladolid_CF_crest.svg/300px-Real_Valladolid_CF_crest.svg.png,38,4,4,30,26,90,-64,16,0.42,34.6,67.6,-33,-0.87,19831,Karl Jakob Hein,Mamadou Sylla ,5
